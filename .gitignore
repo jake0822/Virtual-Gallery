@@ -5,3 +5,5 @@
 /.vs
 /Virtual Gallery/.vs/Virtual Gallery
 /Virtual Gallery/Virtual Gallery/obj
+/Virtual Gallery/Library.VirtualGallery/obj
+/Virtual Gallery/Virtual Gallery/bin/Debug/net8.0
