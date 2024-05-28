@@ -1,4 +1,6 @@
 ﻿using System;
+using Library.VirtualGallery.Models;
+using Library.VirtualGallery.Services;
 
 namespace MyApp
 {
@@ -6,7 +8,7 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var myCollection = Collection.Current;
         }
     }
 }
